@@ -1,0 +1,23 @@
+/* reset all styles from browser*/
+@font-face {
+    font-family: Edwardian Script ITC;
+    src: url("fonts/EdwardianScriptITC.ttf");
+}
+*{
+    margin:0;
+    padding:0;
+}
+body{
+    margin: 20px auto;
+    padding: 20px;
+    color: #0094ff;
+    font-family: Consolas,'Times New Roman',serif;
+}
+section > article > p{
+    text-align: justify;
+    width: 480px;
+}
+section>article>p:first-letter {
+    font-family: 'Edwardian Script ITC',serif;
+    font-size: 20px;
+}
