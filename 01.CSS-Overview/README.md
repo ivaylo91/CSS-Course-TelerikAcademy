@@ -18,4 +18,4 @@
 
 *Create a web page using the design and the HTML markup in homework.html.
 
-![ScreenShot](https://cloud.githubusercontent.com/assets/3619393/7183744/e7c7704a-e461-11e4-80f5-71015ea9fd99.png)
+![ScreenShot](https://cloud.githubusercontent.com/assets/3619393/7183746/e7c83d36-e461-11e4-8cb3-eb252752f0b4.png)
