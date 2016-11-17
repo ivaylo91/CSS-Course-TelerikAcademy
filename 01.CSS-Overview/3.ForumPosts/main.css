@@ -25,6 +25,9 @@ nav>ul>li a {
      color: #fafad2;
     font-size: 20px;
 }
+nav>ul>li>a.current{
+    text-decoration: underline;
+}
 nav>ul>li>a:hover{
     text-decoration: underline;
 }
