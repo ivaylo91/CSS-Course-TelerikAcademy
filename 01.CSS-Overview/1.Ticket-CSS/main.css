@@ -4,3 +4,39 @@
     margin: 0;
     padding:0;
 }
+
+table{
+    margin: 10px;
+    padding: 10px;
+    background: #808080;
+}
+th{
+    color:#ccc;
+    font-size: 18px;
+}
+td{
+    color:#fff;
+    font-size:12px;
+    padding: 3px;
+}
+.name{
+    color: #fafad2;
+}
+.active-message{
+    color: #ff0000;
+}
+.email{
+    color:#fafad2;
+}
+.time{
+    color: #ccc;
+}
+.lock{
+    color: #ccc;
+}
+.post{
+    color:#fafad2;
+}
+.status{
+    color:#ffA500;
+}
