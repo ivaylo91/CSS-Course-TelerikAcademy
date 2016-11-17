@@ -1,0 +1,49 @@
+/* reset all styles from browser */
+
+*{
+    margin: 0;
+    padding:0;
+}
+body{
+    margin: 20px auto;
+    padding: 20px;
+    background: #808080;
+    font: 16px/1.5em 'Monospaced';
+}
+h1{
+    margin: 20px;
+    padding: 20px;
+    text-align: center;
+    color: #fafad2;
+}
+nav>ul li{
+    text-align: center;
+    list-style: none;
+}
+nav>ul>li a {
+     text-decoration: none;
+     color: #fafad2;
+    font-size: 20px;
+}
+nav>ul>li>a:hover{
+    text-decoration: underline;
+}
+article{
+    text-align: justify;
+
+}
+article> footer > p > a{
+    text-decoration: none;
+    color: #000;
+}
+article> footer>p>a:hover{
+    text-decoration: underline;
+}
+article >footer>p{
+    margin-top: 20px;
+    font-size: 14px;
+    text-align: left;
+}
+footer{
+    text-align: center;
+}
