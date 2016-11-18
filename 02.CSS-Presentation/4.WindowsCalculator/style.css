@@ -1,5 +1,5 @@
 /*reset all browser styles */
-ul, li, button, input {
+* {
     margin: 0;
     padding: 0;
 }
