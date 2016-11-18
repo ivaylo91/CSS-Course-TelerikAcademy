@@ -1,0 +1,20 @@
+/*reset all browser styles*/
+*{
+    margin: 0;
+    padding:0;
+}
+body{
+    margin: 20px auto;
+    padding: 20px;
+}
+div.central{
+    background-color:black;
+    width:100%;
+    border:1px solid red;
+    border-radius:1000px;
+}
+div { background-color:black;
+    border:1px solid red;
+    border-radius:1000px;
+    width:96%;
+}
