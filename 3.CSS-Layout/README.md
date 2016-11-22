@@ -9,8 +9,8 @@
 
 ##Problem 2. Music Categories
 
-    *Create the following Web page using external CSS styles.
-        *Buttons should consist of PNG images with text over them.
+    * Create the following Web page using external CSS styles.
+        * Buttons should consist of PNG images with text over them.
 
 
      ![ScreenShot](https://cloud.githubusercontent.com/assets/3619393/7184547/7e1d5fce-e466-11e4-9839-5e30a95045d7.png)
@@ -36,6 +36,7 @@
 
       Note: Do it without tables
 
+
       ![ScreenShot](https://cloud.githubusercontent.com/assets/3619393/7184546/7e1d5f4c-e466-11e4-885e-f28d1471879b.png)
 
 ## Problem 6. News site
@@ -43,5 +44,6 @@
       * Create the following Web page using HTML and external CSS.
 
         Note: Using tables, inline styles and deprecated tags is not allowed!
+
 
       ![ScreenShot](https://cloud.githubusercontent.com/assets/3619393/7184548/7e1dcc52-e466-11e4-8e21-17b78a84449a.png)
