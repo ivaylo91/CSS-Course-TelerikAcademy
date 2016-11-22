@@ -40,6 +40,8 @@
 
 ## Problem 6. News site
 
-      * Create the following Web page using HTML and external CSS.
+ * Create the following Web page using HTML and external CSS.
 
-      ![ScreenShot](https://cloud.githubusercontent.com/assets/3619393/7184548/7e1dcc52-e466-11e4-8e21-17b78a84449a.png)
+   Note: Do it without tables
+
+   ![ScreenShot](https://cloud.githubusercontent.com/assets/3619393/7184548/7e1dcc52-e466-11e4-8e21-17b78a84449a.png)
