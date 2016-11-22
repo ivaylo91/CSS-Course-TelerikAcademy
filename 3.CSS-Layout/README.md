@@ -9,34 +9,34 @@
 
 ##Problem 2. Music Categories
 
-    * Create the following Web page using external CSS styles.
+ * Create the following Web page using external CSS styles.
 
-        * Buttons should consist of PNG images with text over them.
+     * Buttons should consist of PNG images with text over them.
 
 
      ![ScreenShot](https://cloud.githubusercontent.com/assets/3619393/7184547/7e1d5fce-e466-11e4-9839-5e30a95045d7.png)
 
 ##Problem 3. Members login
 
-     * Create the following Web page using HTML with external CSS file.
+ * Create the following Web page using HTML with external CSS file.
 
-        Note: The images should be PNG with transparent background.
+   Note: The images should be PNG with transparent background.
 
-     ![ScreenShot](https://cloud.githubusercontent.com/assets/3619393/7184545/7e1d45de-e466-11e4-965e-33f81b8ef5c6.png)
+   ![ScreenShot](https://cloud.githubusercontent.com/assets/3619393/7184545/7e1d45de-e466-11e4-965e-33f81b8ef5c6.png)
 
 ##Problem 4. CSS Documentation site
 
-      * Given the picture below create the Web site
+ * Given the picture below create the Web site
 
-         * Use CSS and HTML 5
+    * Use CSS and HTML 5
 
-      ![ScreenShot](https://cloud.githubusercontent.com/assets/3619393/7184544/7e1aea8c-e466-11e4-9081-c96799bd0704.png)
+   ![ScreenShot](https://cloud.githubusercontent.com/assets/3619393/7184544/7e1aea8c-e466-11e4-9081-c96799bd0704.png)
 
 ##Problem 5. Laptop store
 
-      * Create the following HTML 5 Page
+ * Create the following HTML 5 Page
 
-      ![ScreenShot](https://cloud.githubusercontent.com/assets/3619393/7184546/7e1d5f4c-e466-11e4-885e-f28d1471879b.png)
+   ![ScreenShot](https://cloud.githubusercontent.com/assets/3619393/7184546/7e1d5f4c-e466-11e4-885e-f28d1471879b.png)
 
 ## Problem 6. News site
 
