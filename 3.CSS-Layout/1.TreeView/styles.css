@@ -1,0 +1,33 @@
+body {
+    font: 16px 'Times New Roman';
+}
+
+nav {
+    margin: 0;
+    padding: 0;
+}
+
+nav ul li {
+    display: block;
+}
+
+nav ul li a {
+    color: #000;
+    text-decoration: none;
+}
+
+nav ul li a:hover {
+    text-decoration: underline;
+}
+
+nav ul ul {
+    display: none;
+}
+
+nav li:hover ul {
+    display: block;
+}
+
+nav > ul > li > ul > li > a {
+    color: #ccc;
+}
