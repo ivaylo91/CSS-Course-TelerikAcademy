@@ -1,0 +1,49 @@
+*{
+    margin:0;
+    padding:0;
+}
+body{
+    margin: 20px auto;
+    padding: 20px;
+    background: #ccc;
+    font: 16px/1.5 'Times New Roman';
+}
+.categories{
+    margin: 20px auto;
+    padding: 30px;
+    background: #fff;
+    width: 400px;
+    height: 100px;
+    position: relative;
+    border:2px solid #a9a9;
+}
+.description{
+    width: 270px;
+    position: absolute;
+    top: 23%;
+    left: 40%;
+    text-align: justify;
+}
+.buttons{
+    position: absolute;
+    top: 70%;
+    left: 62%;
+
+}
+.btn-style{
+    background: url("images/button.png") no-repeat;
+    padding: 5px 5px;
+    color: #fff;
+    width: 77px;
+    height: 25px;
+    outline: none;
+    text-align: center;
+}
+h4{
+     font: 14px 'sans-serif';
+     text-align: center;
+}
+img{
+    margin-top: 10px;
+    margin-right: 10px;
+}
