@@ -1,0 +1,195 @@
+
+body {
+    margin: 20px auto;
+    padding: 20px;
+    background: #f1f1f1;
+    font: 16px/1.5 'Times New Roman';
+}
+
+.container {
+    position: absolute;
+    border: 2px solid #595959;
+    background: #fff;
+    width: 840px;
+    top: 10%;
+    left: 20%;
+
+}
+
+aside {
+    width: 170px;
+    padding: 20px;
+    margin-top: 4px;
+    margin-right: 5px;
+}
+
+aside section {
+    display:block;
+    width: 170px;
+    padding: 0;
+    margin: 1px 0 0 5px;
+    text-align: center;
+    background: #fff;
+    border: 1px solid #ccc;
+}
+section ul li{
+    list-style:none;
+}
+
+aside section header {
+    padding: 0;
+    margin: 0;
+}
+
+aside section header h3 {
+    font-size: 1em;
+}
+
+aside section ul {
+    padding: 2px;
+}
+
+aside section form {
+    margin-bottom: 10px;
+}
+
+aside section form input[type="text"] {
+    width: 100px;
+    margin-top: 5px;
+}
+
+aside section form input[type="submit"] {
+    padding: 0 3px;
+}
+
+body aside section img {
+    padding-top: 5px;
+}
+
+h4 {
+    background: #696969;
+    padding: 2px;
+    color: #fff;
+}
+
+img {
+    float: left;
+    margin-right: 20px;
+    padding-right: 5px;
+    overflow: hidden;
+    padding-top: 10px;
+    margin-left: 10px;
+}
+
+section {
+    margin: 5px 0 20px 13px;
+}
+
+section article {
+    margin: 10px 0 15px 0;
+}
+
+.first-article p {
+    padding-bottom: 5px;
+    font-weight: bold;
+    width: 510px;
+}
+
+a {
+    color: #8b0000;
+    font-weight: normal;
+}
+
+footer {
+    margin-top: 10px;
+    border-top: 2px solid #545454;
+    border-bottom: 2px solid #545454;
+}
+
+.article-content {
+    font-weight: normal;
+}
+
+.start-learn {
+    font-weight: normal;
+    margin-left: 130px;
+}
+
+.right {
+    float: right;
+
+}
+
+.page-buttons {
+    padding: 6px 0;
+    border-bottom: 2px solid #a6a6a6;
+}
+
+.page-buttons:last-of-type {
+    margin-top: 10px;
+    border-top: 2px solid #a6a6a6;
+}
+
+.page-buttons .btn-previous:before {
+
+    position: relative;
+    left: -15px;
+    content: "◄";
+}
+
+.page-buttons .btn-next:after {
+    position: relative;
+    left: 30px;
+    content: "►";
+}
+
+.page-buttons button {
+    width: 115px;
+    padding: 2px 0 2px 0;
+    border: 1px solid black;
+    background-color: #FFFFFF;
+}
+
+.page-buttons button:hover {
+    font-weight: bold;
+    background-color: #C4C4C4;
+}
+
+nav {
+    float: left;
+    margin-top: 15px;
+    font: 13px/1.2 Verdana, sans-serif;
+}
+
+nav ul {
+    list-style: none;
+}
+
+nav a {
+    text-decoration: none;
+    color: black;
+}
+
+nav a:hover {
+    text-decoration: underline;
+}
+
+body nav > ul > li > a {
+    color: #a51513;
+}
+
+body nav #home {
+    margin-bottom: 10px;
+}
+
+body nav .sub-menu {
+    font-weight: bold;
+    color: #931311;
+    margin-top: 20px;
+}
+
+body nav .sub-menu ul {
+    font-weight: normal;
+    color: black;
+}
+
