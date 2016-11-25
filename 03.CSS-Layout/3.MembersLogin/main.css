@@ -21,10 +21,9 @@ label {
     color: #fff;
     margin: 0 0 10px 10px;
 }
-
 .login_form {
     position: absolute;
-    top: 50%;
+    top: 57%;
     left: 6%;
 }
 
@@ -32,7 +31,7 @@ header {
     position: relative;
     background: linear-gradient(#313131 50%, #545454 80%, #000 100%);
     border: 1px solid #313131;
-    padding: 25px 10px 10px 10px;
+    padding: 35px 10px 10px 10px;
 }
 
 input[type="submit"] {
